@@ -1,2 +1,3 @@
 # hello-word
-compartilha 
+compartilhar 
+logo vem 
